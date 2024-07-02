@@ -1,0 +1,52 @@
+<style>
+#sun{
+     color: rgb(21, 30, 158);
+}
+#old{
+     color: rgb(110, 136, 15);
+}
+#city{
+     color: rgb(19, 117, 122);
+}
+#carpet{
+     color: rgb(110, 136, 15);
+}
+
+.Pera {
+     text-align: center;
+     text-decoration:underline;
+     color: rgb(255, 3, 3);
+     background-color: rgba(0, 255, 115, 0.459);
+     font-weight: 60;
+     font-family:fantasy;   
+       font-size: 30px;
+}
+.Blue{
+     color: blue;
+}
+#sunspan{
+     color: rgb(255, 3, 3);
+}
+#oldspan{
+     color: royalblue;
+}
+#cityspan{
+     color: rgb(255, 115, 236);
+}
+#carspan{
+     color: royalblue;
+    
+}
+/* learn more, It's not enough */
+.Diva{
+     text-align: justify;
+     background-color: aqua;
+      border: 30px solid rgb(168, 61, 18);
+      border-radius : 20px; ;
+     margin:30px;
+     height: 75%;
+      padding: 20px;
+      box-shadow:  15px  15px 10px violet;
+      
+         }
+</style>
